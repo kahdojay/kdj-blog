@@ -14,3 +14,8 @@ Some draft principles that will guide my learning path for this exploration:
 1. fun/interesting
 1. synergize with my work
 1. novel over familiar (breadth over depth)
+
+Up Next / Todo:
+- Revive/refresh kahdojay.com (old Hugo site deployed to GCP where I had no idea what I was doing, time to revisit, no more of this blog subdomain stuff)
+- Post about my "career" path, leading up to software engineering
+- Fill in portfolio page with projects, then write about the interesting ones
