@@ -54,9 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works <s>in Seattle</s> on the Internet.
-        {` `}
-        He has a <a href={`https://twitter.com/${social.twitter}`}>Twitter</a> but there is almost literally no content there so you probably don't want to follow him.
+        <strong>{author}</strong>
       </p>
     </div>
   )
