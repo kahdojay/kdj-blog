@@ -13,14 +13,15 @@ I read [this feature story on Wired](https://www.wired.com/story/lee-holloway-de
 
 > Neural networks encode our mental artifacts, which together form the foundation of behavior. A stimulus enters the brain, and electrochemical signals swoosh through your neurons, culminating in an action: Hug a friend. Sit and brood. Tilt your head up at the sun and smile. Losing some brain cells here or there is no big deal; the networks are resilient enough to keep a person's behaviors and sense of self consistent.
 
->But not always. Mess with the biological Jell-O in just the right ways and the structure of the self reveals its fragility.
+> But not always. Mess with the biological Jell-O in just the right ways and the structure of the self reveals its fragility.
 
 Upson then details Holloway's neurodegenerative disease, a type of frontotemporal dementia (FTD), which caused damage to parts of his brain sometimes described as underpinning one's sense of self:
 
->It takes all the things that define a person—hobbies and interests, the desire to connect with others, everyday habits—and shreds them. Over time, the disease transforms its victims into someone unrecognizable, a person with all the same memories but an alarming new set of behaviors. Then it hollows them out and shaves away their mobility, language, and recollections. 
+> It takes all the things that define a person—hobbies and interests, the desire to connect with others, everyday habits—and shreds them. Over time, the disease transforms its victims into someone unrecognizable, a person with all the same memories but an alarming new set of behaviors. Then it hollows them out and shaves away their mobility, language, and recollections.
 
 Holloway's FTD manifested over the course of several years, and as Upton notes is common with other FTD cases, went unnoticed as a disease due to FTD being relatively unknown and difficult to diagnose. Holloway's erratic behavior over the years was largely rationalized away by his co-founders and ex-wife until it became so extreme that his second wife pushed for an MRI.
 
 Two takeaways for me:
+
 1. Even though Holloway's neurological self was visibily deteriorating, even those closest to him, the people who would know best from an external perspective who Holloway "was", could not detect it until the FTD was at a very late stage. It may have been their bias rationalizing away the surprises but this to me cuts against the notion that others can help define who you are, no matter how close they are to you.
-2. Despite Holloway's physical deterioration of his self, he still clung on consistently to a few core things, as described by his robotic behavior at the end of the story - repeatedly searching YouTube for CloudFlare followed by his wife's name, for example. So despite the loss of the physical, neurological self, there still remains a kernel that drives at least some of his behavior consistently.
+2. Despite Holloway's physical deterioration of his self, he still clung on consistently to a few core things, as described by his robotic behavior at the end of the story - repeatedly searching YouTube for CloudFlare followed by his wife's name, for example. So despite the loss of the physical, neurological self, there still remained a kernel that drives at least some of his behavior consistently.
